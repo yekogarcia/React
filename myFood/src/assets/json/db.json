@@ -1,0 +1,168 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Hamburguesas",
+            "img": "https://images.rappi.com/restaurants_background/cocharliesroastbeef-1666132169503.jpg?e=webp&q=40&d=300x300"
+        },
+        {
+            "id": 2,
+            "name": "Perros",
+            "img": "https://images.rappi.com/restaurants_background/altoque2-1662989360091.jpg?e=webp&q=40&d=300x300"
+        },
+        {
+            "id": 3,
+            "name": "Carnes",
+            "img": "https://images.rappi.com/restaurants_background/533-1667422152622.png?e=webp&q=40&d=300x300"
+        },
+        {
+            "id": 4,
+            "name": "Papas",
+            "img": "https://images.rappi.com/restaurants_background/mariapicada-1662407727994.jpg?e=webp&q=40&d=300x300"
+        },
+        {
+            "id": 5,
+            "name": "Bebidas",
+            "img": "https://images.rappi.com/restaurants_background/t4-1660672001821.jpg?e=webp&q=40&d=300x300"
+        },
+        {
+            "id": 6,
+            "name": "Licores",
+            "img": "https://images.rappi.com/marketplace/store_type_1635891709280.jpg?d=200x200&e=webp"
+        }
+    ],
+    "menu": [
+        {
+            "id": 1,
+            "name": "Promo Stacker Jr Doble",
+            "img": "https://images.rappi.com/restaurants_background/cocharliesroastbeef-1666132169503.jpg?e=webp&q=40&d=300x300",
+            "description": "Nuestra stacker jr doble cuenta con dos carnes de res a la parrilla de 48gr c/u, tocineta, queso derretido, salsa stacker sobre un pan con ajonjolí tostado. acompañado de g",
+            "valor": 50000,
+            "id_category": 1
+        },
+        {
+            "id": 2,
+            "name": "Promo Stacker Jr Doble",
+            "img": "https://images.rappi.com/restaurants_background/cocharliesroastbeef-1666132169503.jpg?e=webp&q=40&d=300x300",
+            "description": "Nuestra stacker jr doble cuenta con dos carnes de res a la parrilla de 48gr c/u, tocineta, queso derretido, salsa stacker sobre un pan con ajonjolí tostado. acompañado de g",
+            "valor": 50000,
+            "id_category": 1
+        },
+        {
+            "id": 3,
+            "name": "Promo Stacker Jr Doble",
+            "img": "https://images.rappi.com/restaurants_background/cocharliesroastbeef-1666132169503.jpg?e=webp&q=40&d=300x300",
+            "description": "Nuestra stacker jr doble cuenta con dos carnes de res a la parrilla de 48gr c/u, tocineta, queso derretido, salsa stacker sobre un pan con ajonjolí tostado. acompañado de g",
+            "valor": 50000,
+            "id_category": 1
+        },
+        {
+            "id": 4,
+            "name": "Promo Stacker Jr Doble",
+            "img": "https://images.rappi.com/restaurants_background/cocharliesroastbeef-1666132169503.jpg?e=webp&q=40&d=300x300",
+            "description": "Nuestra stacker jr doble cuenta con dos carnes de res a la parrilla de 48gr c/u, tocineta, queso derretido, salsa stacker sobre un pan con ajonjolí tostado. acompañado de g",
+            "valor": 50000,
+            "id_category": 1
+        },
+        {
+            "id": 5,
+            "name": "Promo Stacker Jr Doble",
+            "img": "https://images.rappi.com/restaurants_background/cocharliesroastbeef-1666132169503.jpg?e=webp&q=40&d=300x300",
+            "description": "Nuestra stacker jr doble cuenta con dos carnes de res a la parrilla de 48gr c/u, tocineta, queso derretido, salsa stacker sobre un pan con ajonjolí tostado. acompañado de g",
+            "valor": 50000,
+            "id_category": 1
+        },
+        {
+            "id": 6,
+            "name": "Promo Stacker Jr Doble",
+            "img": "https://images.rappi.com/restaurants_background/cocharliesroastbeef-1666132169503.jpg?e=webp&q=40&d=300x300",
+            "description": "Nuestra stacker jr doble cuenta con dos carnes de res a la parrilla de 48gr c/u, tocineta, queso derretido, salsa stacker sobre un pan con ajonjolí tostado. acompañado de g",
+            "valor": 50000,
+            "id_category": 1
+        },
+        {
+            "id": 7,
+            "name": "Promo Stacker Jr Doble",
+            "img": "https://images.rappi.com/restaurants_background/cocharliesroastbeef-1666132169503.jpg?e=webp&q=40&d=300x300",
+            "description": "Nuestra stacker jr doble cuenta con dos carnes de re.",
+            "valor": 50000,
+            "id_category": 1
+        },
+        {
+            "id": 8,
+            "name": "Promo Stacker Jr Doble",
+            "img": "https://images.rappi.com/restaurants_background/cocharliesroastbeef-1666132169503.jpg?e=webp&q=40&d=300x300",
+            "description": "Nuestra stacker jr doble cuenta con dos carnes de re.",
+            "valor": 50000,
+            "id_category": 1
+        },
+        {
+            "id": 9,
+            "name": "Promo Stacker Jr Doble",
+            "img": "https://images.rappi.com/restaurants_background/cocharliesroastbeef-1666132169503.jpg?e=webp&q=40&d=300x300",
+            "description": "Nuestra stacker jr doble cuenta con dos carnes de res a la parrilla de 48gr c/u, tocineta, queso derretido, salsa stacker sobre un pan con ajonjolí tostado. acompañado de g",
+            "valor": 50000,
+            "id_category": 1
+        }
+    ],
+    "bebidas": [
+        {
+            "id": 1,
+            "name": "Jugo de Mora 700 ml",
+            "description": "Jugo de mora con leche",
+            "img": "",
+            "valor": "5000"
+        },
+        {
+            "id": 2,
+            "name": "Jugo de Mora 700 ml",
+            "description": "Jugo de mora con leche",
+            "img": "",
+            "valor": "5000"
+        },
+        {
+            "id": 3,
+            "name": "Jugo de Mora 700 ml",
+            "description": "Jugo de mora con leche",
+            "img": "",
+            "valor": "5000"
+        },
+        {
+            "id": 4,
+            "name": "Jugo de Mora 700 ml",
+            "description": "Jugo de mora con leche",
+            "img": "",
+            "valor": "5000"
+        }
+    ],
+    "adicionales": [
+        {
+            "id": 1,
+            "name": "Mayonesa",
+            "description": "salsa mayonesa",
+            "img": "",
+            "valor": ""
+        },
+        {
+            "id": 2,
+            "name": "Porción de papa",
+            "description": "Porción de papa",
+            "img": "",
+            "valor": "4000"
+        },
+        {
+            "id": 3,
+            "name": "Salsa tartara",
+            "description": "Salsa tartara",
+            "img": "",
+            "valor": ""
+        },
+        {
+            "id": 4,
+            "name": "Doritos",
+            "description": "Porción de doritos",
+            "img": "",
+            "valor": 5000
+        }
+    ]
+}
